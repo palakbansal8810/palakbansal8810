@@ -44,10 +44,14 @@
 <a href="https://www.leetcode.com/u/palakbansal23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palak_bansal23" height="30" width="40" /></a>
 </p>
 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=palakbansal8810&show_icons=true&locale=en&layout=compact&theme=radical" alt="palakbansal8810" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakbansal8810&theme=radical" alt="palakbansal8810" /></p>
+## 👩‍💻 Stats
 
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=palakbansal8810&show_icons=true&locale=en&layout=compact&theme=radical" alt="palakbansal8810" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=palakbansal8810&theme=radical" alt="palakbansal8810" /></td>
+  </tr>
+</table>
 
 ## 📸 Fun Fact
 
