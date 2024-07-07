@@ -27,7 +27,6 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask"/> 
   <img src="https://miro.medium.com/v2/resize:fit:35/1*musVE9e4bgjTWeoRmc-P_w.png" alt="Selenium"/> 
-  <br>
   <img src="https://steemitimages.com/p/x7L2VSNEiyAFMrpiG2ns3CB2gK32YGyd3PzYWd5t2qpCdo6bect8Mceakn4wQhEiyJBt6dt5cAGb3eW?format=match&width=50" alt="Scrapy"/> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/> 
