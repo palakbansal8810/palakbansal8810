@@ -1,7 +1,7 @@
 <h1 align="center">Hey there👋, I'm Palak Bansal</h1>
 <img align="right" alt="Coding" src="https://infynno.com/wp-content/uploads/2022/01/infynno-solutions.gif"><br><br>
 <h3 align="center">AI Enthusiast: Exploring the fascinating world of artificial intelligence and machine learning.</h3><br>
-<img align="right" alt="Coding" width="480" src="https://miro.medium.com/v2/resize:fit:900/1*63sGPbvLLpvlD16hG1bvmA.gif">
+<img align="right" alt="Coding" width="280" src="https://miro.medium.com/v2/resize:fit:900/1*63sGPbvLLpvlD16hG1bvmA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbansal8810&label=Profile%20views&color=0e75b6&style=flat" alt="palakbansal8810" /> </p>
 
