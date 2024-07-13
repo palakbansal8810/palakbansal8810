@@ -54,5 +54,5 @@
 
 ## 📸 Fun Fact
 
-My image recognition project once identified clouds as fluffy sheep roaming the sky — AI will surely replace us^_^
+My image recognition project once identified clouds as fluffy sheep roaming the sky: AI will surely replace us~
 
